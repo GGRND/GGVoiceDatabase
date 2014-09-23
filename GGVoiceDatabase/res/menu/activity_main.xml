@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.eaaa.ggvoicedatabase.ActivityMain" >
+
+    <item
+        android:id="@+id/Speak"
+        android:title="@string/speak_a_note" />
+    <item 
+        android:id="@+id/Close"
+        android:title="@string/close" />"
+
+</menu>
